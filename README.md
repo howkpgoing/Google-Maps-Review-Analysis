@@ -21,3 +21,12 @@
 * `snownlp`
 * `pandas`
 * `matplotlib.pyplot`
+
+
+## 分析結果 
+**特徵文字雲**  
+ <img width="349" height="181" alt="image" src="https://github.com/user-attachments/assets/8b5d8246-a35b-4ccd-9d89-685b00f5e214" />     
+**留言評分分布圖**  
+ <img width="387" height="278" alt="image" src="https://github.com/user-attachments/assets/59467bf0-e17d-437f-9941-41df3b146ac9" />
+
+
